@@ -1,0 +1,5 @@
+public interface Deductible{
+    boolean metDeductible ();
+    boolean metTotalOutOfPocket();
+
+}
